@@ -1,4 +1,4 @@
 {
- "body": "{\"web\":{\"ver\":801,\"min\":8,\"url\":\"https://raw.githubusercontent.com/ionqaswara/otmoframe-updates/main/files/web-801.zip\",\"sha256\":\"0f5472e14169de0dbdba5ed2a9064dcb0eab47b42a0f40043c68dde791f31e1e\"}}",
- "sig": "MEUCIB2c5p6gY9t6a7ix/11cx7YvboI75EM7FuN0yuf+UZezAiEAm+mnoiGWek0zHDDITjtBD68xDFMQqibnhRRfv2D5NLM="
+ "body": "{\"web\":{\"ver\":801,\"min\":8,\"url\":\"https://raw.githubusercontent.com/ionqaswara/otmoframe-updates/main/files/web-801.zip\",\"sha256\":\"0f5472e14169de0dbdba5ed2a9064dcb0eab47b42a0f40043c68dde791f31e1e\"},\"apk\":{\"code\":9,\"name\":\"1.9.1\",\"url\":\"https://raw.githubusercontent.com/ionqaswara/otmoframe-updates/main/files/frame-9.apk\",\"sha256\":\"982cecee0370c275197133a182a118101006fe3988cf21506511d8babb367300\"}}",
+ "sig": "MEYCIQDbaLFEmtZvUCXXurwmAyWrQ6ScaryZe3B4y2AfjQGn5AIhANP7FkRPP3d1f5eT7flEstIBr1JB8fs+Ro/+1Ibdpj8D"
 }
