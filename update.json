@@ -1,4 +1,4 @@
 {
- "body": "{\"web\":{\"ver\":2301,\"min\":23,\"path\":\"files/web-2301.zip\",\"url\":\"https://raw.githubusercontent.com/ionqaswara/otmoframe-updates/main/files/web-2301.zip\",\"sha256\":\"1c17955ce88662741bfc772b1df8ab1a80a81a6a8a046d20e38f338089c61232\"},\"apk\":{\"code\":24,\"name\":\"2.2.2\",\"path\":\"files/frame-24.apk\",\"url\":\"https://raw.githubusercontent.com/ionqaswara/otmoframe-updates/main/files/frame-24.apk\",\"sha256\":\"a2b164603ee9d27dae6923e1f468c7e21e25a62cca8b9b8fd06f42803c5a4790\"}}",
- "sig": "MEYCIQCbtgbP05o+CRA0RMiheXMfhS/y7NWNKSuL1yRrI9wYUAIhAP8QUEcX67e14zgVyJDdeZKKETJN1NtE1YjLS0Ythq/b"
+ "body": "{\"web\":{\"ver\":2401,\"min\":24,\"path\":\"files/web-2401.zip\",\"url\":\"https://raw.githubusercontent.com/ionqaswara/otmoframe-updates/main/files/web-2401.zip\",\"sha256\":\"44611aea7b912a8c6ad8831c6dba35e1389048108347d8cdb7920ee55f273b7a\"},\"apk\":{\"code\":24,\"name\":\"2.2.2\",\"path\":\"files/frame-24.apk\",\"url\":\"https://raw.githubusercontent.com/ionqaswara/otmoframe-updates/main/files/frame-24.apk\",\"sha256\":\"a2b164603ee9d27dae6923e1f468c7e21e25a62cca8b9b8fd06f42803c5a4790\"}}",
+ "sig": "MEUCIQDzNhkgMWI1BTlj4WU9qvjt2sSjO0Xwvs8GRKg8QC4pQwIgE6xWf4Ygs5/QiZO1tlO8Qvduf/Eh5Fu2jqx7iRErDIw="
 }
